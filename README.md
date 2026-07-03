@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Daryl Few 👋
 
-Welcome to my GitHub profile! I'm a passionate developer committed to building innovative solutions and sharing knowledge with the community.
+Welcome to my GitHub profile! I'm a student studying Software Engineering, committed to building innovative solutions and sharing knowledge with the community.
 
 ## 🚀 About Me
 
