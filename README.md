@@ -6,12 +6,6 @@ Welcome to my GitHub profile! I'm a student studying Software Engineering, commi
 
 I'm a Software Engineering student with a strong interest in software engineering, open-source contributions, and continuous learning. I enjoy working and collaborating with talented teams to create meaningful impact through technology.
 
-## 💼 What I Do
-
-- Build scalable applications and systems
-- Contribute to open-source projects
-- Explore new technologies and frameworks
-- Collaborate on interesting problems
 
 ## 🛠️ Tech Stack
 
@@ -29,4 +23,4 @@ I'm a Software Engineering student with a strong interest in software engineerin
 
 ---
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.** 🚀
+**Thanks for visiting! Feel free to explore my repositories.** 🚀
