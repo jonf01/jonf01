@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building i
 
 ## 🚀 About Me
 
-I'm a developer with a strong interest in software engineering, open-source contributions, and continuous learning. I enjoy working on challenging projects and collaborating with talented teams to create meaningful impact through technology.
+I'm a Software Engineering student with a strong interest in software engineering, open-source contributions, and continuous learning. I enjoy working and collaborating with talented teams to create meaningful impact through technology.
 
 ## 💼 What I Do
 
